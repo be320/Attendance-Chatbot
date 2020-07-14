@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-attendance",
+  "private_key_id": "aeb274912a529ab108adb0889f53e4170c024b0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8Odi/Z9sWymZ/\nYpIyD4u2077Vabm3cx0irIghmarsVg4gRF72z1Gi0NTaGaS487Zly5YTvof8Oq8M\nRi6tzyPZRsqwqsg4+pVXsTfYIOOsHb/+D28+smVs67xh5EgMGRVsVhSo38xHYHPy\nm0uNmYk8/xIPeV+9OiFJxThOXk3PUnsajisWYi9pinL+SQc/m8zeiOfCmpjQEZkL\noUbqJvrAx7iuQ4KrdeCnx1TNG3X0V99m0aPxb3CsvqxPf7S8JOSJDfOkzuwXdH9O\nJwNr7ofFTsCgIKYM+2mCZLbNLYWoO3XjPO6b2fmow+EGYRBs96tE8GliwFdJRwbL\nr9sd7UGbAgMBAAECggEAOtKVIxQQyumL6KlkaNKk5gj8bXNx/5uw8kIa9O0yFlO6\nbGkRiG434/sBWfuDl+1KBjv+dcMoejHYvKw+MEE4wdE2zMlCc1QUUehnPFri68oM\nUxh9uolD2ys8nxcZUPaR1F5+bFwsWe4RrjLMBL+DvRU1jrJushM1jfldZFhiVrS1\nG6o42rDus9jORNuO6Y1uGrgVotyPXUY23ASONR5Tr10VB/+VcAOvaeKzbrYGTeBD\nX1eTwRNPQguz6M0HVIipQJE5u5gRt0WzjXPhOhUDXG5ITGo9jkZW56dxawEc2zkr\nHxi5OBhukh5bV3GCksUshaBf/ujZF2shMK1vCPH6WQKBgQD0IjtYVhImR/BSbdCC\n1ypw3JHPx6Ktg6ax72IH0vEhY4LFr/0pRlgOfgahSWlZgOOMT3Qdeq0TX0G9Zl8Y\ncTdlCjs2xE5jmCF6A3T8y0JZfXImAOfaQk65HEWQidhwyNTSdTB/kdZmsgUwEgjm\nFB1ph+34e1jwaTM7Gl0bUP+s9QKBgQDFX/Or4ROCOmT9qGJfBVsaLxxTLZnbwFea\nH6qtBuEkpussc7Lp18v+ncVI1uk1UELy6dSn3dp4vAITykEx3ah917Z/eD9FHxLj\ndDm5KCm4F+sk6A/CzFaagAQcxTgo4UaJILqyQCc2yVXj/fIexOaD2Z82jZ9sklp1\nqWpzn94aTwKBgA4yS2cooieNuWDht+VT48jqWqRNhJ04caIZPIcd8h2x7rHWOQ+E\nYqx9EZ+haDnnL9RB7oukTZo5yNXdtRvzwXfjr2vQ4IoUF6ZDuzLUEwinLdMd7F2Z\ny4AiL71m9qogU5flbquMbH5OTdTsx42xj8BKQkFX0uUwCOWf89gZzrRdAoGAStJR\nATtVteyFFFOc1wCkxIxPZIjI5rFHhDm07drJxqcwR62kiVkxD9inTTGLPpaqioNy\nBiDoDRTYhMALbufkU7BOkov3EDDzbB5HM5WyGwOWNGt0bhggTHlzFaT94SFlJ96s\nZ55CP1abpM5D1r411I3O+VM+uF3SxP/wRty3yakCgYEAiiFuhuxLtdB56jwK2E7P\nZqea3amxomCWC7eOwetdn5upQzO8qiYuIeLQJOCZrcKsn4MM02Y1XPH2tgOHoe2n\nqe7gltmbA4+k7xgWEc4jITija8ZtfpPIHsTXteqx88HVPmtVlNjzNeZyKcRy8cuC\nx+OcLIj3Rfbb786NFWzQldo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@chatbot-attendance.iam.gserviceaccount.com",
+  "client_id": "117014712575413350139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40chatbot-attendance.iam.gserviceaccount.com"
+}
